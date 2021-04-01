@@ -1,0 +1,453 @@
+
+@media (max-width: 479.98px) {
+    .skill_image2 {
+        left: 3px !important;
+        top: 55px !important;
+    }
+
+    .skill_image3 {
+        top: 53px !important;
+    }
+
+    .contact_submit_button {
+        padding: 15px 45px !important;
+    }
+}
+
+
+/*// Extra small devices (portrait phones, less than 576px)1*/
+@media (max-width: 575.98px) {
+
+    .navbar .container {
+        padding: 0 16px;
+    }
+
+    .banner_text h2 {
+        font-size: 30px;
+    }
+
+    #banner_part {
+        padding-top: 150px;
+        padding-bottom: 60px;
+    }
+
+    .service_info {
+        text-align: center;
+        margin-top: 45px;
+    }
+
+    .service_info p {
+        padding-right: 0;
+    }
+
+    #service_part {
+        padding-top: 50px;
+        padding-bottom: 0;
+    }
+
+    #skill_part {
+        padding: 55px 0 125px 0;
+    }
+
+    .skill_details h2 {
+        width: 100%;
+        text-align: center;
+        font-size: 30px;
+    }
+
+    .skill_text {
+        margin-bottom: 40px;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+        text-align: center;
+    }
+
+    .skill_text p {
+        padding: 0;
+    }
+
+    .skill_image {
+        margin-top: 15px;
+    }
+
+    .skill_image1 {
+        right: -4px;
+    }
+
+    .skill_image2 {
+        left: 3px;
+    }
+
+    #testimonial_part {
+        padding-top: 70px;
+    }
+
+    .testimonial_head h2 {
+        margin-bottom: 40px;
+        font-size: 30px;
+    }
+
+    .testimonial_text p {
+        padding: 0;
+    }
+
+    .logo_content {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+    }
+
+    .logo_image {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+    }
+
+    #logo_part {
+        padding-top: 65px;
+        padding-bottom: 0;
+    }
+
+    .logo1,
+    .logo2,
+    .logo3,
+    .logo4 {
+        margin-bottom: 60px;
+    }
+
+    #contact_part {
+        padding-top: 65px;
+        padding-bottom: 59px;
+    }
+
+    .contact_head h2 {
+        font-size: 30px;
+    }
+
+    .contact_form {
+        margin-top: 40px;
+    }
+
+    .contact_submit_button {
+        padding: 17px 65px;
+    }
+
+    .footer_left {
+        text-align: center !important;
+    }
+
+    .footer_right {
+        text-align: center !important;
+        margin-top: 10px;
+    }
+
+    .openNav {
+        display: block;
+    }
+
+
+}
+
+
+
+
+
+
+/*// Small devices (landscape phones, 576px and up)1*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+
+    .banner_text h2 {
+        font-size: 30px;
+    }
+
+    #banner_part {
+        padding-top: 150px;
+        padding-bottom: 60px;
+    }
+
+    .service_info {
+        text-align: center;
+        margin-top: 45px;
+    }
+
+    .service_info p {
+        padding-right: 0;
+    }
+
+    #service_part {
+        padding-top: 50px;
+        padding-bottom: 0;
+    }
+
+    #skill_part {
+        padding: 55px 0 140px 0;
+    }
+
+    .skill_details h2 {
+        width: 100%;
+        text-align: center;
+    }
+
+    .skill_text {
+        margin-bottom: 40px;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+        text-align: center;
+    }
+
+    .skill_text p {
+        padding: 0;
+    }
+
+    .skill_image {
+        margin-top: 15px;
+    }
+
+    .skill_image1 {
+        right: -4px;
+    }
+
+    .skill_image2 {
+        left: 3px;
+    }
+
+    #testimonial_part {
+        padding-top: 70px;
+    }
+
+    .testimonial_head h2 {
+        margin-bottom: 40px;
+    }
+
+    .testimonial_text p {
+        padding: 0;
+    }
+
+    .logo_content {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+    }
+
+    .logo1,
+    .logo2,
+    .logo3 {
+        margin-bottom: 35px;
+    }
+
+    .logo_image {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+    }
+
+    #logo_part {
+        padding-top: 65px;
+        padding-bottom: 0;
+    }
+
+    #contact_part {
+        padding-top: 65px;
+        padding-bottom: 59px;
+    }
+
+    .contact_form {
+        margin-top: 40px;
+    }
+
+    .contact_submit_button {
+        padding: 17px 65px;
+    }
+
+    .footer_left {
+        text-align: center !important;
+    }
+
+    .footer_right {
+        text-align: center !important;
+        margin-top: 10px;
+    }
+
+    .openNav {
+        display: block;
+    }
+
+}
+
+
+
+
+
+
+/*// Medium devices (tablets, 768px and up)1*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    .banner_text h2 {
+        font-size: 35px;
+    }
+
+    #banner_part {
+        padding-top: 280px;
+        padding-bottom: 180px;
+    }
+
+    .service_info {
+        text-align: center;
+        margin-top: 50px;
+    }
+
+    .service_info p {
+        padding-right: 0;
+    }
+
+    .skill_details h2 {
+        width: 100%;
+        text-align: center;
+    }
+
+    .skill_text {
+        margin-bottom: 40px;
+        display: ;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+    }
+
+    .skill_text p {
+        padding: 0;
+    }
+
+    #service_part {
+        padding-bottom: 0;
+    }
+
+    .skill_image1 {
+        right: -4px;
+    }
+
+    .skill_image2 {
+        left: -2px;
+    }
+
+    .skill_image3 {
+        top: 99px;
+    }
+
+    #skill_part {
+        padding-bottom: 150px;
+    }
+
+    #testimonial_part {
+        padding-top: 100px;
+    }
+
+    .testimonial_text p {
+        padding: 0;
+    }
+
+    #logo_part {
+        padding-bottom: 0;
+    }
+
+    #contact_part {
+        padding-bottom: 90px;
+    }
+
+    .footer_left {
+        text-align: center !important;
+    }
+
+    .footer_right {
+        text-align: center !important;
+        margin-top: 10px;
+    }
+
+    .openNav {
+        display: block;
+    }
+
+}
+
+
+
+
+
+
+/*// Large devices (desktops, 992px and up)1*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+
+    #banner_part {
+        overflow: hidden;
+        padding-top: 300px;
+        padding-bottom: 200px;
+    }
+
+    #skill_part {
+        padding: 100px 0 90px 0;
+    }
+
+    .overlay {
+        display: none !important;
+    }
+
+}
+
+
+
+
+
+
+/*// Extra large devices (large desktops, 1200px and up)1*/
+@media (min-width: 1200px) {
+
+    .overlay {
+        display: none !important;
+    }
+
+}
